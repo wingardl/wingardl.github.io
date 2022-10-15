@@ -9,7 +9,6 @@ images:
 - /images/back_bug_vase.jpg
 - /images/back_bug_vase_low.jpg
 
-
 title: Garden Party (Weekend at Rob's)
 date: 2022-06
 tags:

@@ -15,4 +15,4 @@ tags:
 - for-sale
 ---
 
-Stonewear, mason stain, slip. 
+Stonewear, mason stain, slip, cone 5. 

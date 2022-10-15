@@ -1,13 +1,13 @@
 ---
-weight: -2
+weight: 3
 images:
-- https://source.unsplash.com/random?galaxy&3046913933
-title: galaxy 4
+- https://source.unsplash.com/random?nature&1763330041
+title: nature 3
 date: 2022-07-23
 tags:
-- work # homepage
+- portfolio # homepage
 - archive # all posts
-- space
+- nature
 ---
 
 # Markdown

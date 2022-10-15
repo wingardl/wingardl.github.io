@@ -1,14 +1,14 @@
 baseURL: https://wingardl.github.io # todo: change site url.
-title: Eternity # todo: change site name.
+title: lucy wingard 
 defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
 
 params:
   image: /images/banner.png
-  subtitle: Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel. # todo: change default subtitle for your website.
+  subtitle: ''
   copyright: All rights reserved. # todo: set your copyright type.
-  author: Lovely Author # todo: set your full name.
+  author: Lucy Wingard # todo: set your full name.
   dontShowSource: false # please, do not do this :)
   portfolio:
     columns:
@@ -24,17 +24,14 @@ params:
   socials:
     # todo: change these links.
     - icon: 'far fa-envelope fa-lg'
-      url: 'mailto:eternity@bora.sh'
-      landing: true
-    - icon: 'fab fa-github fa-lg'
-      url: 'https://github.com/boratanrikulu/eternity'
+      url: 'mailto:lucywingard97@gmail.com'
       landing: true
     - icon: 'fab fa-instagram fa-lg'
-      url: 'https://instagram.bora.sh/eternity'
+      url: 'https://instagram.com/lucymakespots'
     - icon: 'fab fa-linkedin-in fa-lg'
-      url: 'https://linkedin.bora.sh/in/eternity'
-  homepage: "/work" # homepage link, mostly same with menu.main[0]
-  bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
+      url: 'https://www.linkedin.com/in/lucy-wingard/'
+  homepage: "/portfolio" # homepage link, mostly same with menu.main[0]
+  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
 
 markup:
   defaultMarkdownHandler: goldmark
@@ -46,22 +43,18 @@ taxonomies:
   tag: tags
 
 permalinks:
-  work: ":filename/"
+  portfolio: ":filename/"
 
 menu:
   main:
-    - name: work
-      url: /work/
+    - name: portfolio
+      url: /portfolio/
       weight: 1
-    - name: people
-      url: /tags/people/
+    - name: for sale
+      url: /tags/for-sale/
       weight: 2
-    - name: nature
-      url: /tags/nature/
-      weight: 3
-    - name: archive
-      url: /tags/archive/
-      weight: 4
     - name: about
       url: /about/
-      weight: 5
+      weight: 3
+
+    

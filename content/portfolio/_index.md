@@ -1,6 +1,6 @@
 ---
-title: work
-url: work
+title: portfolio
+url: portfolio
 ---
 
 <div align="center">

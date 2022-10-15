@@ -1,11 +1,13 @@
 ---
-weight: 5
+weight: 4
 images:
-- https://source.unsplash.com/random?people&26027020
-title: people 5
+- https://source.unsplash.com/random?people&2426212096
+- https://source.unsplash.com/random?people&2412096
+title: people 4
+multipleColumn: true
 date: 2022-07-23
 tags:
-- work # homepage
+- portfolio # homepage
 - archive # all posts
 - people
 ---

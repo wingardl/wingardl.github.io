@@ -1,15 +1,13 @@
 ---
-weight: 4
+weight: 1
 images:
-- https://source.unsplash.com/random?nature&2084727574
-- https://source.unsplash.com/random?nature&22333asdasdasdasda84727574
-multipleColumn: true
-title: nature 4
+- https://source.unsplash.com/random?people&2733212157
+title: people 1
 date: 2022-07-23
 tags:
-- work # homepage
+- portfolio # homepage
 - archive # all posts
-- nature
+- people
 ---
 
 # Markdown
@@ -28,4 +26,4 @@ Some list
 
 1. A b c
 2. A b c
-3. A b c
+3. A b c 

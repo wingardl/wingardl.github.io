@@ -3,8 +3,9 @@ weight: 4
 images:
 - /images/teapot_pour.jpg
 - /images/teapot_side.jpg
-- /images/teapot_lid.jpg
+- /images/teapot_spout.jpg
 - /images/teapot_handle.jpg
+- /images/teapot_lid.jpg
 
 title: Teapot
 date: 2021-05

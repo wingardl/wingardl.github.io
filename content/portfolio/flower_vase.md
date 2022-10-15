@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 3
 images:
 - /images/flower_vase.jpg
 - /images/flower_vase_detail.jpg

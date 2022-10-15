@@ -1,7 +1,6 @@
 ---
 weight: 2
 images:
-- /images/dj_bug_vase.jpg
 - /images/dance_detail_bug_vase.jpg
 - /images/dj_detail_bug_vase.jpg
 

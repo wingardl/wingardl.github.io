@@ -1,13 +1,12 @@
 ---
 weight: 3
 images:
-- https://source.unsplash.com/random?bunny&2547127860
-title: bunny 1
-date: 2022-07-23
+- /images/blue_orange_top.jpg
+title: Ocean
+date: 2022-06
 tags:
-- archive # all posts
-- bunny
-- nature
+- portfolio # all posts
+- for-sale
 ---
 
 # Markdown
@@ -20,10 +19,4 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum 
 
 ## Subtitle
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
 
-Some list
-
-1. A b c
-2. A b c
-3. A b c 

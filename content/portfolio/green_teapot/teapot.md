@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 7
 images:
 - /images/teapot_pour.jpg
 - /images/teapot_side.jpg
@@ -7,6 +7,7 @@ images:
 - /images/teapot_handle.jpg
 - /images/teapot_lid.jpg
 
+hideExif: true
 title: Teapot
 date: 2021-05
 tags:

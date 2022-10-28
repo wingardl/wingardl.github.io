@@ -8,7 +8,7 @@ params:
   image: /images/banner.png
   subtitle: ''
   copyright: All rights reserved. # todo: set your copyright type.
-  author: Lucy Wingard # todo: set your full name.
+  author: Lucy Wingard 
   dontShowSource: false # please, do not do this :)
   portfolio:
     columns:
@@ -22,7 +22,6 @@ params:
         archive: 3
         people: 1
   socials:
-    # todo: change these links.
     - icon: 'far fa-envelope fa-lg'
       url: 'mailto:lucywingard97@gmail.com'
       landing: true
@@ -50,11 +49,14 @@ menu:
     - name: portfolio
       url: /portfolio/
       weight: 1
+    - name: raku
+      url: /tags/raku/
+      weight: 2
     - name: for sale
       url: /tags/for-sale/
-      weight: 2
+      weight: 3
     - name: about
       url: /about/
-      weight: 3
+      weight: 4
 
     

@@ -5,6 +5,7 @@ images:
 - /images/stripe_vase_detail.jpg
 - /images/stripe_vase_back.jpg
 
+hideExif: true
 multipleColumn: true
 title: Striped Vase
 date: 2021-04

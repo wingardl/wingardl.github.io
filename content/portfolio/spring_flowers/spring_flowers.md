@@ -14,6 +14,7 @@ title: Spring Flowers
 date: 2023-10
 tags:
 - portfolio # all posts
+- for-sale
 ---
 
 Porcelain, underglaze, glaze, cone 5.

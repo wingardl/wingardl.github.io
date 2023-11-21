@@ -12,7 +12,8 @@ title: Raku Moon Jar
 date: 2022-10
 tags:
 - portfolio # all posts
-- raku
+- atmospheric
+- for-sale
 ---
 
 Stonewear, raku.

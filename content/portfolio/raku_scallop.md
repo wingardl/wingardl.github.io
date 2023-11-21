@@ -12,7 +12,7 @@ title: Raku Scalloped Vase
 date: 2022-10
 tags:
 - portfolio # all posts
-- raku
+- atmospheric
 ---
 
 Stonewear, raku.

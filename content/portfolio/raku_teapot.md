@@ -1,5 +1,5 @@
 ---
-weight: 8
+weight: 2
 images:
 - /images/raku_teapot/raku_teapot_spout_detail_2.jpg
 - /images/raku_teapot/raku_teapot_front_side.jpg

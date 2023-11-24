@@ -1,6 +1,7 @@
 ---
 images:
 - /images/about.png
+- /images/pot_portrait.jpg
 title: about
 url: about
 hideTitle: true
